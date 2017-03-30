@@ -1,0 +1,8 @@
+
+CPSC 335-x - Programming Assignment #2
+Topology recognition algorithm
+Enter the number of nodes in the topology
+Enter the positive weights, 100 for infinity
+The topology is
+neither
+elapsed time: 0.000314 seconds
